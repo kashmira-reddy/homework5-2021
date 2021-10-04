@@ -90,7 +90,7 @@ nav a{
   /* visibility: visible; */
   /* display: block; */
   position: absolute;
-  top: 0px;
+  top: inherit;
   /*top: 17px*/
   /* transform: translateY(50%); */
 }
