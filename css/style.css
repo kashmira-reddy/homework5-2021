@@ -78,21 +78,15 @@ nav a{
   z-index: 1;
 
   /* Requirement 3a code here*/
-  /* visibility: hidden; */
-  /* display: none; */
   position: absolute;
   top: -40px;
-  /* transform: translateY(-40px); */
 }
 
 /* Requirement 3b code here*/
 .skip a:focus{
-  /* visibility: visible; */
-  /* display: block; */
   position: absolute;
-  top: inherit;
-  /*top: 17px*/
-  /* transform: translateY(50%); */
+  /* top: inherit; */
+  top: 0px;
 }
 
 /* Requirement 4 code here*/
